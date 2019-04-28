@@ -12,7 +12,7 @@ namespace April2019GitHub.Controllers
     {
         public IActionResult Index()
         {
-
+            int a = 10;
             return View();
         }
 
