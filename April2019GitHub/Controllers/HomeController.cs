@@ -15,6 +15,7 @@ namespace April2019GitHub.Controllers
             int a = 10;
             int b = 20;
             int c=  30;
+            int e =50;
             int d = 40;
             return View();
         }
